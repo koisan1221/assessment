@@ -5,7 +5,7 @@ const resultDivided = document.getElementById('result-area');
 const tweetDivided = document.getElementById('tweet-area');
 
     /**
-     * 指定した要素の子供をすべて削除する。
+     * 指定した要素の子供をすべて削除する
      * @param {HTMLElement} element HTMLの要素
      */
     function removeAllchildren(element) {
